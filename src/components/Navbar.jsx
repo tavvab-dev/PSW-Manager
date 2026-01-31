@@ -24,7 +24,7 @@ const Navbar=() =>{
         </li>
       </ul> */}
 
-      <button className='text-white bg-green-800 my-5 mx-2 rounded-full flex justify-between items-center ring-white ring-1'>
+      <button className='text-white bg-green-800 my-5 mx-2 rounded-full flex justify-between items-center ring-white ring-1 ' src="https://github.com/tavvab-dev">
 
       <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github"  className='invert w-10 p-1 '/>
 
